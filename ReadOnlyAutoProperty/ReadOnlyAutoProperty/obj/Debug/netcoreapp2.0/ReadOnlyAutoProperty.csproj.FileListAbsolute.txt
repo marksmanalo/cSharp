@@ -1,0 +1,11 @@
+C:\git\cSharp\ReadOnlyAutoProperty\ReadOnlyAutoProperty\bin\Debug\netcoreapp2.0\ReadOnlyAutoProperty.deps.json
+C:\git\cSharp\ReadOnlyAutoProperty\ReadOnlyAutoProperty\bin\Debug\netcoreapp2.0\ReadOnlyAutoProperty.runtimeconfig.json
+C:\git\cSharp\ReadOnlyAutoProperty\ReadOnlyAutoProperty\bin\Debug\netcoreapp2.0\ReadOnlyAutoProperty.runtimeconfig.dev.json
+C:\git\cSharp\ReadOnlyAutoProperty\ReadOnlyAutoProperty\bin\Debug\netcoreapp2.0\ReadOnlyAutoProperty.dll
+C:\git\cSharp\ReadOnlyAutoProperty\ReadOnlyAutoProperty\bin\Debug\netcoreapp2.0\ReadOnlyAutoProperty.pdb
+C:\git\cSharp\ReadOnlyAutoProperty\ReadOnlyAutoProperty\obj\Debug\netcoreapp2.0\ReadOnlyAutoProperty.csprojResolveAssemblyReference.cache
+C:\git\cSharp\ReadOnlyAutoProperty\ReadOnlyAutoProperty\obj\Debug\netcoreapp2.0\ReadOnlyAutoProperty.csproj.CoreCompileInputs.cache
+C:\git\cSharp\ReadOnlyAutoProperty\ReadOnlyAutoProperty\obj\Debug\netcoreapp2.0\ReadOnlyAutoProperty.AssemblyInfoInputs.cache
+C:\git\cSharp\ReadOnlyAutoProperty\ReadOnlyAutoProperty\obj\Debug\netcoreapp2.0\ReadOnlyAutoProperty.AssemblyInfo.cs
+C:\git\cSharp\ReadOnlyAutoProperty\ReadOnlyAutoProperty\obj\Debug\netcoreapp2.0\ReadOnlyAutoProperty.dll
+C:\git\cSharp\ReadOnlyAutoProperty\ReadOnlyAutoProperty\obj\Debug\netcoreapp2.0\ReadOnlyAutoProperty.pdb
