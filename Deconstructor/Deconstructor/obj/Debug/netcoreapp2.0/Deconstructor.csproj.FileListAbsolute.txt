@@ -3,7 +3,6 @@ C:\git\cSharp\Deconstructor\Deconstructor\bin\Debug\netcoreapp2.0\Deconstructor.
 C:\git\cSharp\Deconstructor\Deconstructor\bin\Debug\netcoreapp2.0\Deconstructor.runtimeconfig.dev.json
 C:\git\cSharp\Deconstructor\Deconstructor\bin\Debug\netcoreapp2.0\Deconstructor.dll
 C:\git\cSharp\Deconstructor\Deconstructor\bin\Debug\netcoreapp2.0\Deconstructor.pdb
-C:\git\cSharp\Deconstructor\Deconstructor\obj\Debug\netcoreapp2.0\Deconstructor.csprojAssemblyReference.cache
 C:\git\cSharp\Deconstructor\Deconstructor\obj\Debug\netcoreapp2.0\Deconstructor.csproj.CoreCompileInputs.cache
 C:\git\cSharp\Deconstructor\Deconstructor\obj\Debug\netcoreapp2.0\Deconstructor.AssemblyInfoInputs.cache
 C:\git\cSharp\Deconstructor\Deconstructor\obj\Debug\netcoreapp2.0\Deconstructor.AssemblyInfo.cs
