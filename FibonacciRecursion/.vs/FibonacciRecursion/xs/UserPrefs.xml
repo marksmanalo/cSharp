@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{40413478-8BAB-4BB4-B12E-DAFBC1651672}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FibonacciRecursion/Program.cs">
+    <Files>
+      <File FileName="FibonacciRecursion/Program.cs" Line="11" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FibonacciRecursion PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>

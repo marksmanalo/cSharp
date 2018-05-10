@@ -1,0 +1,11 @@
+/Users/marksmanalo/git/cSharp/FibonacciRecursion/FibonacciRecursion/bin/Debug/netcoreapp2.0/FibonacciRecursion.deps.json
+/Users/marksmanalo/git/cSharp/FibonacciRecursion/FibonacciRecursion/bin/Debug/netcoreapp2.0/FibonacciRecursion.runtimeconfig.json
+/Users/marksmanalo/git/cSharp/FibonacciRecursion/FibonacciRecursion/bin/Debug/netcoreapp2.0/FibonacciRecursion.runtimeconfig.dev.json
+/Users/marksmanalo/git/cSharp/FibonacciRecursion/FibonacciRecursion/bin/Debug/netcoreapp2.0/FibonacciRecursion.dll
+/Users/marksmanalo/git/cSharp/FibonacciRecursion/FibonacciRecursion/bin/Debug/netcoreapp2.0/FibonacciRecursion.pdb
+/Users/marksmanalo/git/cSharp/FibonacciRecursion/FibonacciRecursion/obj/Debug/netcoreapp2.0/FibonacciRecursion.csprojResolveAssemblyReference.cache
+/Users/marksmanalo/git/cSharp/FibonacciRecursion/FibonacciRecursion/obj/Debug/netcoreapp2.0/FibonacciRecursion.csproj.CoreCompileInputs.cache
+/Users/marksmanalo/git/cSharp/FibonacciRecursion/FibonacciRecursion/obj/Debug/netcoreapp2.0/FibonacciRecursion.AssemblyInfoInputs.cache
+/Users/marksmanalo/git/cSharp/FibonacciRecursion/FibonacciRecursion/obj/Debug/netcoreapp2.0/FibonacciRecursion.AssemblyInfo.cs
+/Users/marksmanalo/git/cSharp/FibonacciRecursion/FibonacciRecursion/obj/Debug/netcoreapp2.0/FibonacciRecursion.dll
+/Users/marksmanalo/git/cSharp/FibonacciRecursion/FibonacciRecursion/obj/Debug/netcoreapp2.0/FibonacciRecursion.pdb

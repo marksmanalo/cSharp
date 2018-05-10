@@ -13,26 +13,16 @@ namespace Fibonacci
 
         private static void PrintFibonacci(int length)
         {
-            var prevResult = 0;
-            var currentResult = 0;
+            var n0 = 0;
+            var n1 = 1;
+            int n;
+
             for (var i = 0; i < length; i++)
             {
-                if (i == 0)
-                {
-                    currentResult = 0;
-                }
-                if (i == 1)
-                {
-                    currentResult = 1;    
-                }
-                else
-                {
-                    var result = currentResult + prevResult;
-                    prevResult = currentResult;
-                    currentResult = result;
-                }
-
-                Console.WriteLine(currentResult);
+                Console.WriteLine(n0);
+                n = n1 + n0;
+                n0 = n1;
+                n1 = n;
             }
         }
     }
