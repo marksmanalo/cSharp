@@ -1,0 +1,11 @@
+/Users/marksmanalo/git/cSharp/Fibonacci/Fibonacci/bin/Debug/netcoreapp2.0/Fibonacci.deps.json
+/Users/marksmanalo/git/cSharp/Fibonacci/Fibonacci/bin/Debug/netcoreapp2.0/Fibonacci.runtimeconfig.json
+/Users/marksmanalo/git/cSharp/Fibonacci/Fibonacci/bin/Debug/netcoreapp2.0/Fibonacci.runtimeconfig.dev.json
+/Users/marksmanalo/git/cSharp/Fibonacci/Fibonacci/bin/Debug/netcoreapp2.0/Fibonacci.dll
+/Users/marksmanalo/git/cSharp/Fibonacci/Fibonacci/bin/Debug/netcoreapp2.0/Fibonacci.pdb
+/Users/marksmanalo/git/cSharp/Fibonacci/Fibonacci/obj/Debug/netcoreapp2.0/Fibonacci.csprojResolveAssemblyReference.cache
+/Users/marksmanalo/git/cSharp/Fibonacci/Fibonacci/obj/Debug/netcoreapp2.0/Fibonacci.csproj.CoreCompileInputs.cache
+/Users/marksmanalo/git/cSharp/Fibonacci/Fibonacci/obj/Debug/netcoreapp2.0/Fibonacci.AssemblyInfoInputs.cache
+/Users/marksmanalo/git/cSharp/Fibonacci/Fibonacci/obj/Debug/netcoreapp2.0/Fibonacci.AssemblyInfo.cs
+/Users/marksmanalo/git/cSharp/Fibonacci/Fibonacci/obj/Debug/netcoreapp2.0/Fibonacci.dll
+/Users/marksmanalo/git/cSharp/Fibonacci/Fibonacci/obj/Debug/netcoreapp2.0/Fibonacci.pdb
