@@ -9,6 +9,7 @@ namespace PatternMatchingWithIs
             var usb = new UsbKey();
             TypeCastingWithoutPatternMatching(usb);
             TypeCastingWithPatternMatching(usb);
+            PatternMathcingInSwitchStatement(usb);
             Console.ReadLine();
         }
 
@@ -53,6 +54,23 @@ namespace PatternMatchingWithIs
             {
             }
             else throw new NotImplementedException();
+        }
+
+        // Pattern Matching in a Switch Statement
+        private static void PatternMathcingInSwitchStatement(Storage storage)
+        {
+            switch(storage)
+            {
+                case UsbKey usbKey when usbKey.IsPluggedIn:
+                    usbKey.Unload();
+                    Console.WriteLine("USB Drive Unloaded.");
+                    break;
+                case Dvd dvd when dvd.IsInserted:
+                    break;
+                case null:
+                default:
+                    throw new ArgumentNullException();
+            }
         }
     }
 
